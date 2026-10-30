@@ -2,7 +2,6 @@
 set -euo pipefail
 
 PKGS=(
-    rawtherapee-git
     latex-pdfpages
     cloudflare-warp-bin
     gimp-devel
