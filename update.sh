@@ -9,7 +9,6 @@ PKGS=(
     libinput-gestures
     rofi-greenclip
     localsend-bin
-    gtk-engine-murrine
     xdman-beta-bin
     wlctl-bin
     ghgrab-bin
