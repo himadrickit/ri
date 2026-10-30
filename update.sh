@@ -4,8 +4,6 @@ set -euo pipefail
 PKGS=(
     latex-pdfpages
     cloudflare-warp-bin
-    gimp-devel
-    freetube
     sxwm
     libjpeg9
     libinput-gestures
