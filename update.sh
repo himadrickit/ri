@@ -2,6 +2,7 @@
 set -euo pipefail
 
 PKGS=(
+	jamesdsp
     latex-pdfpages
     cloudflare-warp-bin
     sxwm
