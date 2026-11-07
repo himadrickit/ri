@@ -2,6 +2,7 @@
 set -euo pipefail
 
 PKGS=(
+	blipnet
 	jamesdsp
     latex-pdfpages
     cloudflare-warp-bin
