@@ -2,7 +2,6 @@
 set -euo pipefail
 
 PKGS=(
-	spotify
 	blipnet
 	jamesdsp
     latex-pdfpages
